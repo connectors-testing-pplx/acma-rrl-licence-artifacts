@@ -33,7 +33,7 @@ service bucket.
 | fixed_public_network | WAVE1 PTY LTD | 74006395026 | 11187592/1 | Fixed | Point to Point (Self Coordinated) | Granted | [artifact](fixed_public_network/1142267__11187592-1.md) |
 | fixed_public_network | March IT Pty Ltd | 12156285728 | 10239707/4 | Fixed | Point to Point | Granted | [artifact](fixed_public_network/20014348__10239707-4.md) |
 | fixed_public_network | BINARY NETWORKS PTY LTD | 27132135543 | 10067422/4 | Fixed | Point to Point | Granted | [artifact](fixed_public_network/20064207__10067422-4.md) |
-| fixed_public_network | PIVOTEL MOBILE PTY LIMITED | 43116239813 | 11134721/1 | Fixed | Point to Point | Granted | [artifact](fixed_public_network/20031543__11134721-1.md) |
+| fixed_public_network | Ergon Energy Telecommunications Pty Ltd | 34106459465 | 10077421/1 | Fixed | Point to Point | Granted | [artifact](fixed_public_network/1314973__10077421-1.md) |
 | spectrum_public_network | TELSTRA LIMITED | 64086174781 | 10388332 | Spectrum | 2.3 GHz Band | Granted | [artifact](spectrum_public_network/20053843__10388332.md) |
 | spectrum_public_network | Optus Mobile Pty Limited | 65054365696 | 10143562 | Spectrum | 2 GHz Band | Granted | [artifact](spectrum_public_network/1103276__10143562.md) |
 | spectrum_public_network | Vodafone Hutchison Australia Pty Limited | 76096304620 | 10143110 | Spectrum | 2 GHz Band | Granted | [artifact](spectrum_public_network/1136980__10143110.md) |
