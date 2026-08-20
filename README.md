@@ -79,8 +79,8 @@ service bucket.
 | maritime_coast | AUSTRALIAN MARITIME SAFETY AUTHORITY | 65377938320 | 10001230/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/20000768__10001230-1.md) |
 | maritime_coast | Volunteer Marine Rescue NSW | 98138078092 | 10160325/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/1147602__10160325-1.md) |
 | maritime_coast | TASMANIAN PORTS CORPORATION PTY. LTD. | 82114161938 | 10889557/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/1147558__10889557-1.md) |
-| maritime_coast | The Australian Volunteer Coast Guard Association Inc | 48233581382 | 1188794/1 | Maritime Coast | Limited Coast Marine Rescue | Granted | [artifact](maritime_coast/1501049__1188794-1.md) |
-| maritime_coast | Department of Transport and Main Roads (Queensland Transport) | 13200330520 | 10109338/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/59938__10109338-1.md) |
+| maritime_coast | South Australia Police | 93799021552 | 1501364/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/182895__1501364-1.md) |
+| maritime_coast | Surf Lifesaving Queensland Inc | 27360485381 | 1443783/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/83314__1443783-1.md) |
 | maritime_coast | Department of Fire and Emergency Services of WA | 39563851304 | 1565892/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/206335__1565892-1.md) |
 | maritime_coast | NEWCASTLE PORT CORPORATION | 50825884846 | 1220133/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/20015744__1220133-1.md) |
 | maritime_coast | PORTS VICTORIA | 51347220146 | 11898615/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/20047680__11898615-1.md) |
