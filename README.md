@@ -87,7 +87,7 @@ service bucket.
 | maritime_coast | Flinders Ports Pty Ltd | 83097377172 | 12838201/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/1312336__12838201-1.md) |
 | maritime_coast | LIFE SAVING VICTORIA LIMITED | 21102927364 | 1912125/1 | Maritime Coast | Limited Coast Marine Rescue | Granted | [artifact](maritime_coast/239612__1912125-1.md) |
 | maritime_coast | KORDIA PTY LIMITED | 33062953940 | 10131454/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/1607951__10131454-1.md) |
-| maritime_coast | Australian Radio Rescue Service Inc | 35963164530 | 10940987/1 | Maritime Coast | Limited Coast Assigned System | Granted | [artifact](maritime_coast/1219251__10940987-1.md) |
+| maritime_coast | South Australian State Emergency Service | 39806991234 | 10996562/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/182734__10996562-1.md) |
 | maritime_coast | The South Australian Sea Rescue Squadron Inc | 17808419845 | 10729898/1 | Maritime Coast | Limited Coast Non Assigned | Granted | [artifact](maritime_coast/1501027__10729898-1.md) |
 | maritime_coast | BUREAU OF METEOROLOGY | 92637533532 | 1138054/1 | Maritime Coast | Major Coast A | Granted | [artifact](maritime_coast/435100__1138054-1.md) |
 | public_safety_land_mobile | Country Fire Authority | 39255319010 | 10061249/1 | Land Mobile | Land Mobile System - > 30MHz | Granted | [artifact](public_safety_land_mobile/210019__10061249-1.md) |
